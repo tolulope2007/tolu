@@ -1,0 +1,21 @@
+.ml{
+    background-color: blue;
+    border: blue;
+    color: white;
+    outline: blue;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    font-size: 1.2rem;
+}
+.mm{
+    color: blue;
+    margin-top: 0.5rem;
+    text-transform: capitalize;
+    text-decoration: underline;
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+#fat{
+    display: flex;
+    gap-4cm
+}
